@@ -89,3 +89,4 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - ng add @nrwl/react
 - ng g @nrwl/angular:app react-site
 - ng serve react-site --open
+- ng g @nrwl/react:lib ui-header
