@@ -82,3 +82,10 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
+
+## Commands Used
+
+- npx create-nx-workspace nx-playbook-workspace
+- ng add @nrwl/react
+- ng g @nrwl/angular:app react-site
+- ng serve react-site --open
