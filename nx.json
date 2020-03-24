@@ -10,5 +10,13 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "react-site": {
+      "tags": []
+    },
+    "react-site-e2e": {
+      "tags": [],
+      "implicitDependencies": ["react-site"]
+    }
+  }
 }

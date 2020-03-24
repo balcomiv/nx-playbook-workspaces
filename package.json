@@ -30,7 +30,8 @@
   "dependencies": {
     "document-register-element": "1.13.1",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "react-router-dom": "5.1.2"
   },
   "devDependencies": {
     "@angular/cli": "9.0.1",
@@ -52,6 +53,7 @@
     "@nrwl/react": "9.1.2",
     "@types/react": "16.9.17",
     "@types/react-dom": "16.9.4",
-    "@testing-library/react": "9.4.0"
+    "@testing-library/react": "9.4.0",
+    "@types/react-router-dom": "5.1.3"
   }
 }
