@@ -90,3 +90,4 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - ng g @nrwl/angular:app react-site
 - ng serve react-site --open
 - ng g @nrwl/react:lib ui-header
+- ng g @nrwl/react:component --project=ui-header page-title
