@@ -16,7 +16,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-playbook-workspaces/ui-header": ["libs/ui-header/src/index.ts"]
+      "@nx-playbook-workspaces/ui-header": ["libs/ui-header/src/index.ts"],
+      "@nx-playbook-workspaces/api-interface": [
+        "libs/api-interface/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]

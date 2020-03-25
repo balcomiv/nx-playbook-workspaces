@@ -91,3 +91,4 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - ng serve react-site --open
 - ng g @nrwl/react:lib ui-header
 - ng add @nrwl/express
+- ng g @nrwl/workspace:lib api-interface
